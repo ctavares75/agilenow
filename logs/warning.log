@@ -1,0 +1,7 @@
+Warning: Artifact:product_backlog: missing resource file './../../SCRUM/workproducts/resources/productbacklog.jpg'
+Warning: Example:example_product_backlog: missing resource file './../../../SCRUM/guidances/examples/resources/productbacklog.jpg'
+Warning: Example:alternative_release_burndown_chart: missing resource file './../../../SCRUM/guidances/examples/resources/altrelburndown1.gif'
+Warning: Example:alternative_release_burndown_chart: missing resource file './../../../SCRUM/guidances/examples/resources/altrelburndown2.gif'
+Warning: Example:alternative_release_burndown_chart: missing resource file './../../../SCRUM/guidances/examples/resources/altrelburndown3.gif'
+Warning: Artifact:sprint_burndown_chart: missing resource file './../../SCRUM/workproducts/./resources/sprintburndown.jpg'
+Warning: Artifact:taskboard: missing resource file './../../SCRUM/workproducts/resources/MockedTaskBoard.jpg'
